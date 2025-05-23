@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /name/
+Disallow: /total-vision.m3u8
